@@ -1,0 +1,21 @@
+{
+  "name": "부산 동구 맛집",
+  "short_name": "부산 동구 맛집",
+  "description": "부산 동구의 숨겨진 맛집들을 탐험해보세요.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0f172a",
+  "theme_color": "#0f172a",
+  "icons": [
+    {
+      "src": "/icons/icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icons/icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
